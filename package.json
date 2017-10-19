@@ -1,0 +1,14 @@
+{
+  "name": "scrape",
+  "version": "1.0.0",
+  "description": "Scraper for southwest tickets",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "author": "Jung Hyun Park",
+  "license": "ISC",
+  "dependencies": {
+    "osmosis": "^1.1.4"
+  }
+}
